@@ -22,15 +22,16 @@ public class CountLetters {
 	}
 	
 	public int numberOfConsonants () {
-		int count = 0;
+		int count = letters.length();
 		int length = letters.length();
 		for(int i = 0; i < length; i++) {
 			for (char vowel: vowels) {
-				if (letters.charAt(i) != vowel) {
-					continue;
-				}
+				if (letters.charAt(i) == vowel) {
+					count--;
 			}
 		}
-		return count;
+		
 	}
+		return count;
+}
 }
