@@ -1,5 +1,0 @@
-package edu.monmouth.shapes;
-
-public interface Shape {
-	public double area();
-}
