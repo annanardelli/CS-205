@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ControlSurfaceParameterOrder</key>
+	<array>
+		<string>3 Volume</string>
+		<string>159 Cutoff</string>
+		<string>49 Attack</string>
+		<string>53 Release</string>
+	</array>
+	<key>SmartControlsParameterOrder</key>
+	<array>
+		<string>159 Cutoff</string>
+		<string>49 Attack</string>
+		<string>53 Release</string>
+		<string>3 Volume</string>
+	</array>
+</dict>
+</plist>
