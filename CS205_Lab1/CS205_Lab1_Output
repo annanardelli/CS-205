@@ -1,0 +1,16 @@
+Number of elements in Student: 5
+Students:
+Student [id=100, age=18, name=John]
+Student [id=101, age=19, name=Jane]
+Student [id=102, age=20, name=Larry]
+Student [id=103, age=20, name=Karen]
+Student [id=104, age=21, name=Karl]
+
+Students under 20:
+Student [id=100, age=18, name=John]
+Student [id=101, age=19, name=Jane]
+
+New Students:
+Student [id=102, age=20, name=Larry]
+Student [id=103, age=20, name=Karen]
+Student [id=104, age=21, name=Karl]
