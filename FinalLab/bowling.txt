@@ -1,0 +1,10 @@
+Pete,280
+Walter,270
+Earl,292
+Norm,279
+Mark,291
+Tony,265
+Bill,277
+Joe,282
+Will,265
+Jim,292

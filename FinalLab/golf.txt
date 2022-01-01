@@ -1,0 +1,10 @@
+Jack,80
+Henrik,99
+Tiger,80
+Pete,109
+Joe,112
+John,81
+Sam,110
+Justin,81
+Brodie,92
+Jim,93

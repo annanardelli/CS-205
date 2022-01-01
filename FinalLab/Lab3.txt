@@ -1,0 +1,13 @@
+Golfers:
+Jack, Score: 80
+Tiger, Score: 80
+John, Score: 81
+Justin, Score: 81
+Brodie, Score: 92
+Jim, Score: 93
+Henrik, Score: 99
+Pete, Score: 109
+Sam, Score: 110
+Joe, Score: 112
+Golf Winner: Jack, Score: 80
+Bowling Winner: Earl, Score: 292
