@@ -1,0 +1,70 @@
+edu.monmouth.book.BookException: Invalid page count: -9
+	at edu.monmouth.book.Book.setNumberOfPages(Book.java:22)
+	at edu.monmouth.book.Book.<init>(Book.java:12)
+	at edu.monmouth.hw3.HW3.main(HW3.java:90)
+Cannot add book. One or more parameters is invalid.
+edu.monmouth.book.BookException: Invalid Price: -99.0
+	at edu.monmouth.book.Book.setPrice(Book.java:56)
+	at edu.monmouth.book.Book.<init>(Book.java:13)
+	at edu.monmouth.hw3.HW3.main(HW3.java:90)
+Cannot add book. One or more parameters is invalid.
+edu.monmouth.book.BookException: Invalid Title
+	at edu.monmouth.book.Book.setTitle(Book.java:43)
+	at edu.monmouth.book.Book.<init>(Book.java:10)
+	at edu.monmouth.hw3.HW3.main(HW3.java:90)
+Cannot add book. One or more parameters is invalid.
+
+ArrayList Methods:
+isEmpty: false
+Removing second book from list: Book [numberOfPages=426, bookType=SOFTBACK, title=Data Structures and Algorithms, price=79.99]
+Size of string arrayList: 7
+Adding string to arrayList: CS 205: true
+Iterating through bookArrayList:
+Book [numberOfPages=120, bookType=HARDBACK, title=The Lord of the Rings, price=29.99]
+Book [numberOfPages=212, bookType=HARDBACK, title=The Hobbit, price=32.5]
+Book [numberOfPages=253, bookType=HARDBACK, title=The Da Vinci Code, price=25.0]
+Book [numberOfPages=156, bookType=SOFTBACK, title=And Then There Were None, price=19.99]
+Book [numberOfPages=439, bookType=ELECTRONIC, title=Harry Potter and the Half-Blood Prince, price=19.99]
+Book [numberOfPages=156, bookType=HARDBACK, title=And Then There Were None, price=39.99]
+Book [numberOfPages=320, bookType=HARDBACK, title=Opus 200, price=40.99]
+Book [numberOfPages=829, bookType=HARDBACK, title=The Soloman Curse, price=23.95]
+Book [numberOfPages=320, bookType=HARDBACK, title=American Sniper, price=16.2]
+Book [numberOfPages=391, bookType=SOFTBACK, title=The Girl on the Train, price=23.87]
+Book [numberOfPages=231, bookType=HARDBACK, title=Citizen Soldier, price=54.99]
+Iterating through bookArrayList backwards: 
+Book [numberOfPages=231, bookType=HARDBACK, title=Citizen Soldier, price=54.99]
+Book [numberOfPages=391, bookType=SOFTBACK, title=The Girl on the Train, price=23.87]
+Book [numberOfPages=320, bookType=HARDBACK, title=American Sniper, price=16.2]
+Book [numberOfPages=829, bookType=HARDBACK, title=The Soloman Curse, price=23.95]
+Book [numberOfPages=320, bookType=HARDBACK, title=Opus 200, price=40.99]
+Book [numberOfPages=156, bookType=HARDBACK, title=And Then There Were None, price=39.99]
+Book [numberOfPages=439, bookType=ELECTRONIC, title=Harry Potter and the Half-Blood Prince, price=19.99]
+Book [numberOfPages=156, bookType=SOFTBACK, title=And Then There Were None, price=19.99]
+Book [numberOfPages=253, bookType=HARDBACK, title=The Da Vinci Code, price=25.0]
+Book [numberOfPages=212, bookType=HARDBACK, title=The Hobbit, price=32.5]
+Book [numberOfPages=120, bookType=HARDBACK, title=The Lord of the Rings, price=29.99]
+
+Linked List Methods:
+Adding string to linkedList: Howard Hall: true
+Iterating through bookLinkedList backwards:
+Book [numberOfPages=231, bookType=HARDBACK, title=Citizen Soldier, price=54.99]
+Book [numberOfPages=391, bookType=SOFTBACK, title=The Girl on the Train, price=23.87]
+Book [numberOfPages=320, bookType=HARDBACK, title=American Sniper, price=16.2]
+Book [numberOfPages=829, bookType=HARDBACK, title=The Soloman Curse, price=23.95]
+Book [numberOfPages=320, bookType=HARDBACK, title=Opus 200, price=40.99]
+Book [numberOfPages=156, bookType=HARDBACK, title=And Then There Were None, price=39.99]
+Book [numberOfPages=439, bookType=ELECTRONIC, title=Harry Potter and the Half-Blood Prince, price=19.99]
+Book [numberOfPages=156, bookType=SOFTBACK, title=And Then There Were None, price=19.99]
+Book [numberOfPages=253, bookType=HARDBACK, title=The Da Vinci Code, price=25.0]
+Book [numberOfPages=212, bookType=HARDBACK, title=The Hobbit, price=32.5]
+Book [numberOfPages=426, bookType=SOFTBACK, title=Data Structures and Algorithms, price=79.99]
+Book [numberOfPages=120, bookType=HARDBACK, title=The Lord of the Rings, price=29.99]
+Iterating through linkedList:
+Monmouth University
+West Long Branch
+February
+Cloud Computing
+Data Structures
+MacBook
+Spacex
+Howard Hall

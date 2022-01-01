@@ -1,0 +1,15 @@
+The Lord of the Rings,HARDBACK,120,29.99
+Data Structures and Algorithms,SOFTBACK,426,79.99
+The Hobbit,HARDBACK,212,32.50
+Harry Potter and the Goblet of Fire,ELECTRONIC,-9,19.99
+The Da Vinci Code,HARDBACK,253,25.00
+And Then There Were None,SOFTBACK,156,19.99
+Harry Potter and the Prisoner of Azkaban,HARDBACK,546,-99.00
+Harry Potter and the Half-Blood Prince,ELECTRONIC,439,19.99
+And Then There Were None,HARDBACK,156,39.99
+Opus 200,HARDBACK,320,40.99
+The Soloman Curse,HARDBACK,829,23.95
+,HARDBACK,92,22.99
+American Sniper,HARDBACK,320,16.20
+The Girl on the Train,SOFTBACK,391,23.87
+Citizen Soldier,HARDBACK,231,54.99

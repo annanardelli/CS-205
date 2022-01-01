@@ -1,0 +1,23 @@
+First: Book [numberOfPages=239, bookType=HARDBACK, title=Undaunted Courage, price=32.5]
+Removed first: Book [numberOfPages=239, bookType=HARDBACK, title=Undaunted Courage, price=32.5]
+Last: Book [numberOfPages=88, bookType=HARDBACK, title=To Kill a Mockingbird, price=25.75]
+Entire list: 
+1 . Book [numberOfPages=129, bookType=SOFTBACK, title=For Whom the Bell Tolls, price=15.0]
+2 . Book [numberOfPages=88, bookType=HARDBACK, title=To Kill a Mockingbird, price=25.75]
+
+After inserting 3 books: 
+1 . Book [numberOfPages=129, bookType=SOFTBACK, title=For Whom the Bell Tolls, price=15.0]
+2 . Book [numberOfPages=88, bookType=HARDBACK, title=To Kill a Mockingbird, price=25.75]
+
+After adding fourth book: 
+1 . Book [numberOfPages=129, bookType=SOFTBACK, title=For Whom the Bell Tolls, price=15.0]
+2 . Book [numberOfPages=88, bookType=HARDBACK, title=To Kill a Mockingbird, price=25.75]
+3 . Book [numberOfPages=12, bookType=HARDBACK, title=Goodnight Moon, price=12.5]
+
+First: Book [numberOfPages=129, bookType=SOFTBACK, title=For Whom the Bell Tolls, price=15.0]
+Last: Book [numberOfPages=12, bookType=HARDBACK, title=Goodnight Moon, price=12.5]
+Removed first: Book [numberOfPages=129, bookType=SOFTBACK, title=For Whom the Bell Tolls, price=15.0]
+Entire list: 
+1 . Book [numberOfPages=88, bookType=HARDBACK, title=To Kill a Mockingbird, price=25.75]
+2 . Book [numberOfPages=12, bookType=HARDBACK, title=Goodnight Moon, price=12.5]
+
