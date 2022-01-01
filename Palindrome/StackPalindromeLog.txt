@@ -1,0 +1,6 @@
+kayak is a palindrome: true
+simple is a palindrome: false
+civic is a palindrome: true
+level is a palindrome: true
+Monmouth is a palindrome: false
+beach is a palindrome: false
