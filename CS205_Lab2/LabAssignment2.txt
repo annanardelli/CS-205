@@ -1,0 +1,7 @@
+-- listing properties --
+languages=Mandarin-English-Spanish-Portuguese-G...
+log_file_name=LabAssignment2.txt
+
+Array Length: 6
+[Mandarin, English, Spanish, Portuguese, German, Russian]
+[Russian, German, Portuguese, Spanish, English, Mandarin]
