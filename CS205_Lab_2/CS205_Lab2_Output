@@ -1,0 +1,59 @@
+Enhanced For-Loop:
+Circle [radius=1 name=c1]
+Circle [radius=2 name=c2]
+Circle [radius=3 name=c3]
+Circle [radius=4 name=c4]
+Circle [radius=5 name=c5]
+
+Iterator:
+Circle [radius=1 name=c1]
+Circle [radius=2 name=c2]
+Circle [radius=3 name=c3]
+Circle [radius=4 name=c4]
+Circle [radius=5 name=c5]
+
+LinkedList methods:
+Circle [radius=1 name=c1]
+Circle [radius=2 name=c2]
+Circle [radius=3 name=c3]
+Circle [radius=4 name=c4]
+Circle [radius=5 name=c5]
+
+Circles Sorted Largest to Smallest:
+Circle [radius=5 name=c5]
+Circle [radius=4 name=c4]
+Circle [radius=3 name=c3]
+Circle [radius=2 name=c2]
+Circle [radius=1 name=c1]
+
+Enhanced For-Loop:
+Rectangle [width=1, height=1, name=r1]
+Rectangle [width=2, height=2, name=r2]
+Rectangle [width=3, height=3, name=r3]
+Rectangle [width=4, height=4, name=r4]
+Rectangle [width=5, height=5, name=r5]
+
+Iterator:
+Rectangle [width=1, height=1, name=r1]
+Rectangle [width=2, height=2, name=r2]
+Rectangle [width=3, height=3, name=r3]
+Rectangle [width=4, height=4, name=r4]
+Rectangle [width=5, height=5, name=r5]
+
+LinkedList methods:
+Rectangle [width=1, height=1, name=r1]
+Rectangle [width=2, height=2, name=r2]
+Rectangle [width=3, height=3, name=r3]
+Rectangle [width=4, height=4, name=r4]
+Rectangle [width=5, height=5, name=r5]
+
+Rectangles Sorted Largest to Smallest:
+Rectangle [width=5, height=5, name=r5]
+Rectangle [width=4, height=4, name=r4]
+Rectangle [width=3, height=3, name=r3]
+Rectangle [width=2, height=2, name=r2]
+Rectangle [width=1, height=1, name=r1]
+
+Binary Search:
+Circle found at this index [or (-(insertion point) - 1) if not found]: -1
+Rectangle found at this index [or (-(insertion point) - 1) if not found]: 1
